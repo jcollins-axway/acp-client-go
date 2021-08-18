@@ -1,4 +1,4 @@
-module github.com/cloudentity/acp-client-go
+module github.com/jcollins-axway/acp-client-go
 
 go 1.15
 
