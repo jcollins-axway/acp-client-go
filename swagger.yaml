@@ -6541,7 +6541,7 @@ definitions:
         format: date-time
         type: string
         x-nullable: false
-      customer_data_access_consent:
+      customer_payment_consent:
         $ref: '#/definitions/OBBRCustomerPaymentConsent'
       requested_scopes:
         items:
